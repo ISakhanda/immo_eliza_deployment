@@ -20,7 +20,7 @@ My app.py file create an API that contains:
 You can use a Dockerfile that allow you to build images for Docker.
 run the Dockerfile:" $ docker run -it -p 8000:8000 your_image "
 
-You can see all you need to install in the reauirements.txt
+You can see all you need to install in the requirements.txt
 
 
 ## Usage

@@ -1,6 +1,6 @@
 # immo_eliza_deployment
 
-## DESCRIPTION
+## Description 
 API that can handle a machine learning model in Python.
 Project with a  ML model that can predict the price of a house and an apartament in Belgium. 
 This python module contain all the code to preprocess the data.
@@ -16,12 +16,12 @@ My app.py file create an API that contains:
   GET request returning a string to explain what the POST expect (data and format).
 
 
-## INSTALLATION 
+## Installation
 You can use a Dockerfile that allow you to build images for Docker.
 run the Dockerfile:" $ docker run -it -p 8000:8000 your_image "
 
 You can see all you need to install in the reauirements.txt
 
 
-## USAGE
+## Usage
 This can be deployed on any web server for predict the the price of a house and an apartament in Belgium. 

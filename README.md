@@ -1,8 +1,8 @@
 # immo_eliza_deployment
 
 ## Description 
-API that can handle a machine learning model in Python.
 Project with a  ML model that can predict the price of a house and an apartament in Belgium. 
+API that can handle a machine learning model in Python (Multiple Linear Regression model).
 This python module contain all the code to preprocess the data.
 
 

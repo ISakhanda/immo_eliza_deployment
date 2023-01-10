@@ -24,4 +24,4 @@ You can see all you need to install in the requirements.txt
 
 
 ## Usage
-This can be deployed on any web server for predict the the price of a house and an apartament in Belgium. 
+This can be deployed on any web server for predict  the price of a house and an apartament in Belgium. 
